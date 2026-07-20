@@ -40,7 +40,7 @@ export default function App() {
           </h1>
           <p className="text-ink-500 mt-2 max-w-xl">
             Enter a website and see exactly what its robots.txt tells crawlers &mdash; who's allowed
-            where, and what it means in plain English.
+            where, and what it means.
           </p>
         </div>
       </header>
